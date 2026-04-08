@@ -1,0 +1,7 @@
+# Python sanal ortamı (Bunu asla yüklemiyoruz)
+venv/
+__pycache__/
+
+# İndireceğimiz veri seti ve zip dosyaları
+*.zip
+*.csv
